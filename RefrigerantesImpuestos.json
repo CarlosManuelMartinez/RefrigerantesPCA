@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "nombre": "R-134a",
+        "pca": 1430
+    },
+    {
+        "id": 2,
+        "nombre": "R-22",
+        "pca": 1810
+    },
+    {
+        "id": 3,
+        "nombre": "R-410A",
+        "pca": 2088
+    },
+    {
+        "id": 4,
+        "nombre": "R-32",
+        "pca": 675
+    },
+    {
+        "id": 5,
+        "nombre": "R-1234yf",
+        "pca": 4
+    },
+    {
+        "id": 6,
+        "nombre": "R-404A",
+        "pca": 3922
+    },
+    {
+        "id": 7,
+        "nombre": "R-507A",
+        "pca": 3985
+    },
+    {
+        "id": 8,
+        "nombre": "R-290 (Propano)",
+        "pca": 3
+    },
+    {
+        "id": 9,
+        "nombre": "R-125",
+        "pca": 3500
+    },
+    {
+        "id": 10,
+        "nombre": "R-143a",
+        "pca": 3530
+    },
+    {
+        "id": 11,
+        "nombre": "R-227ea",
+        "pca": 3180
+    },
+    {
+        "id": 12,
+        "nombre": "R-114",
+        "pca": 7000
+    },
+    {
+        "id": 13,
+        "nombre": "R-152a",
+        "pca": 124
+    },
+    {
+        "id": 14,
+        "nombre": "R-717 (Amoníaco)",
+        "pca": 0
+    },
+    {
+        "id": 15,
+        "nombre": "R-600a (Isobutano)",
+        "pca": 3
+    },
+    {
+        "id": 16,
+        "nombre": "R-503",
+        "pca": 6900
+    },
+    {
+        "id": 17,
+        "nombre": "R-401A",
+        "pca": 1700
+    },
+    {
+        "id": 18,
+        "nombre": "R-401B",
+        "pca": 1500
+    },
+    {
+        "id": 19,
+        "nombre": "R-410B",
+        "pca": 1500
+    },
+    {
+        "id": 20,
+        "nombre": "R-438A",
+        "pca": 1850
+    }
+]
+
