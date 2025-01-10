@@ -2,102 +2,121 @@
     {
         "id": 1,
         "nombre": "R-134a",
-        "pca": 1430
+        "pca": 1430,
+        "impuesto_por_kg": 26.0
     },
     {
         "id": 2,
         "nombre": "R-22",
-        "pca": 1810
+        "pca": 1810,
+        "impuesto_por_kg": 45.0
     },
     {
         "id": 3,
         "nombre": "R-410A",
-        "pca": 2088
+        "pca": 2088,
+        "impuesto_por_kg": 39.5
     },
     {
         "id": 4,
         "nombre": "R-32",
-        "pca": 675
+        "pca": 675,
+        "impuesto_por_kg": 11.0
     },
     {
         "id": 5,
         "nombre": "R-1234yf",
-        "pca": 4
+        "pca": 4,
+        "impuesto_por_kg": 1.0
     },
     {
         "id": 6,
         "nombre": "R-404A",
-        "pca": 3922
+        "pca": 3922,
+        "impuesto_por_kg": 75.68
     },
     {
         "id": 7,
         "nombre": "R-507A",
-        "pca": 3985
+        "pca": 3985,
+        "impuesto_por_kg": 77.0
     },
     {
         "id": 8,
         "nombre": "R-290 (Propano)",
-        "pca": 3
+        "pca": 3,
+        "impuesto_por_kg": 0.5
     },
     {
         "id": 9,
         "nombre": "R-125",
-        "pca": 3500
+        "pca": 3500,
+        "impuesto_por_kg": 68.0
     },
     {
         "id": 10,
         "nombre": "R-143a",
-        "pca": 3530
+        "pca": 3530,
+        "impuesto_por_kg": 86.0
     },
     {
         "id": 11,
         "nombre": "R-227ea",
-        "pca": 3180
+        "pca": 3180,
+        "impuesto_por_kg": 70.0
     },
     {
         "id": 12,
         "nombre": "R-114",
-        "pca": 7000
+        "pca": 7000,
+        "impuesto_por_kg": 120.0
     },
     {
         "id": 13,
         "nombre": "R-152a",
-        "pca": 124
+        "pca": 124,
+        "impuesto_por_kg": 5.0
     },
     {
         "id": 14,
         "nombre": "R-717 (Amoníaco)",
-        "pca": 0
+        "pca": 0,
+        "impuesto_por_kg": 1.0
     },
     {
         "id": 15,
         "nombre": "R-600a (Isobutano)",
-        "pca": 3
+        "pca": 3,
+        "impuesto_por_kg": 0.5
     },
     {
         "id": 16,
         "nombre": "R-503",
-        "pca": 6900
+        "pca": 6900,
+        "impuesto_por_kg": 115.0
     },
     {
         "id": 17,
         "nombre": "R-401A",
-        "pca": 1700
+        "pca": 1700,
+        "impuesto_por_kg": 25.0
     },
     {
         "id": 18,
         "nombre": "R-401B",
-        "pca": 1500
+        "pca": 1500,
+        "impuesto_por_kg": 20.0
     },
     {
         "id": 19,
         "nombre": "R-410B",
-        "pca": 1500
+        "pca": 1500,
+        "impuesto_por_kg": 20.0
     },
     {
         "id": 20,
         "nombre": "R-438A",
-        "pca": 1850
+        "pca": 1850,
+        "impuesto_por_kg": 43.03
     }
 ]
-
